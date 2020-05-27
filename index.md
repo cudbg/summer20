@@ -3,7 +3,7 @@ layout: index
 ---
 
 
-#### Overview
+### Overview
 
 In this zero credit "course", you will work in teams to gain experience in conducting research and contributing to a research project.  Although we will provide some course-like structure to help you along, how the course is run is open to change based on your feedback.  Further, all of the projects are loosely structured, meaning we have identified high level steps and goals, however we rely on your creativity to fill in the gaps and direct where the project ends up going!
 
@@ -16,9 +16,14 @@ The goals of the course are for you to
 
 ### Course Structure
 
-The course is split into two "sections" based on which "umbrella" project you are working on (Khameleon or Precision Interfaces).  Each section will meet one hour per week.  The entire course (both sections) will meet together once every 2 weeks so everyone can meet.
+The course is split into two "sections" based on which "umbrella" project you are working on (Khameleon or Precision Interfaces).  
 
-#### Section Meetings
+* Each section will meet one hour per week.  
+* The entire course (both sections) will meet together once every 2 weeks so everyone can interact.   
+* The staff will have office hours for addition discussions that teams may have.  
+* We will use slack as the primary way to communicate -- create channels for teams, chit chat, etc
+
+### Section Meetings
 
 During the first part of the course, teams in each section will work on warm-up tasks to become acquainted with their respective codebases and research projects.  The meeting during each section will focus on reading and understanding the umbrella project's papers, sharing progress, comparing notes, and learning about the code base.  This part is about 3 weeks.
 
@@ -33,7 +38,7 @@ For each meeting, every team will prepare a short presentation (max 5 slides) to
 * Demos, screenshots, storyboards are great!
 
 
-#### Initial Schedule
+### Initial Schedule
 
 Week 1
 
