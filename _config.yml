@@ -19,8 +19,8 @@ email: ewu@cs.columbia.edu
 description: > # this means to ignore newlines until "baseurl:"
   Zero Credit Summer Projects
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/summer20" # the subpath of your site, e.g. /blog
+url: "https://cudbg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  
 
 # Build settings
