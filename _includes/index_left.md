@@ -1,14 +1,17 @@
 #### Staff
 
+Zoom links in slack
+
 * Eugene Wu   
   <small>OH: Mondays 12-1 </small>   
-  Zoom links in slack
 * Yiru Chen (first 2-3 weeks)   
   <small>OH: TBA</small>
 * Haneen Mohammed    
   <small>OH: TBA</small>
 
 #### Meetings
+
+Zoom links in slack
 
 * Precision Interfaces Section
   * Thursdays 9-10AM EST
