@@ -1,4 +1,4 @@
-#### Information 
+#### Staff
 
 * Eugene Wu   
   <small>OH: Mondays 12-1 </small>   
@@ -7,6 +7,9 @@
   <small>OH: TBA</small>
 * Haneen Mohammed    
   <small>OH: TBA</small>
+
+#### Meetings
+
 * Precision Interfaces Section
   * Thursdays 9-10AM EST
 * Khameleon Section
