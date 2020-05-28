@@ -1,31 +1,38 @@
 #### Staff
 
-Zoom links in slack
+Eugene Wu   
+<small>OH: Weds 9-10AM EST</small>   
 
-* Eugene Wu   
-  <small>OH: Mondays 12-1 </small>   
-* Yiru Chen (first 2-3 weeks)   
-  <small>OH: Fridays 9pm - 10pm EST </small>
-* Haneen Mohammed    
-  <small>OH: TBA</small>
+Yiru Chen (first 2-3 weeks)   
+<small>OH: Fri 9-10PM EST </small>
+
+Haneen Mohammed    
+<small>OH: TBA</small>
 
 #### Meetings
 
-Zoom links in slack
+Precision Interfaces Section   
+<small>Mon 5-6PM EST</small>
 
-* Precision Interfaces Section
-  * Mondays 5-6PM EST
-* Khameleon Section
-  * TBA
-* Bi-weekly Meeting
-  * TBA
+Khameleon Section   
+<small>Mon 4-5PM EST</small>
+
+Bi-weekly Meeting   
+<small>TBA</small>
 
 #### Resources
 
-* [Slack](wulab2020summer.slack.com)
-* Precision Interfaces
-  * [repo](https://github.com/cudbg/pi)
-* Khameleon 
-  * [Server repo](https://github.com/cudbg/khameleon-server)
+[Slack](wulab2020summer.slack.com)
+
+Zoom links in slack
+
+Precision Interfaces
+
+* [Tasks Document](https://docs.google.com/document/d/1MB4m1PToWJca8VORbi022sh6Cod7XBDiYmz9rocoVpA/edit?usp=sharing)
+* [Github](https://github.com/cudbg/pi)
+
+Khameleon 
+
+* [Github](https://github.com/cudbg/khameleon-server)
 
 
