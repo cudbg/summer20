@@ -5,7 +5,7 @@ Zoom links in slack
 * Eugene Wu   
   <small>OH: Mondays 12-1 </small>   
 * Yiru Chen (first 2-3 weeks)   
-  <small>OH: Saturday 10AM - 11AM </small>
+  <small>OH: Fridays 9pm - 10pm EST </small>
 * Haneen Mohammed    
   <small>OH: TBA</small>
 
