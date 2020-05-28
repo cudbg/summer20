@@ -14,7 +14,7 @@ Zoom links in slack
 Zoom links in slack
 
 * Precision Interfaces Section
-  * Thursdays 9-10AM EST
+  * Mondays 5-6PM EST
 * Khameleon Section
   * TBA
 * Bi-weekly Meeting
