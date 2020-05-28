@@ -30,9 +30,9 @@ Precision Interfaces
 
 * [Tasks Document](https://docs.google.com/document/d/1MB4m1PToWJca8VORbi022sh6Cod7XBDiYmz9rocoVpA/edit?usp=sharing)
 * [Github](https://github.com/cudbg/pi)
+* [Papers](papers#pi)
 
 Khameleon 
 
 * [Github](https://github.com/cudbg/khameleon-server)
-
-
+* [Papers](papers#khameleon)
