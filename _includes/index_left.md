@@ -34,5 +34,6 @@ Precision Interfaces
 
 Khameleon 
 
+* [Tasks Document](https://docs.google.com/document/d/1lGcqAhpAUivpvE5H5NvuHuoqARy7D6Fmkp0ohB3Sc9s/edit?usp=sharing)
 * [Github](https://github.com/cudbg/khameleon-server)
 * [Papers](papers#khameleon)
