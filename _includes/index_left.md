@@ -7,7 +7,7 @@ Yiru Chen (first 2-3 weeks)
 <small>OH: Fri 9-10PM EST </small>
 
 Haneen Mohammed    
-<small>OH: TBA</small>
+<small>OH: Thursday 2-3PM EST</small>
 
 #### Meetings
 
