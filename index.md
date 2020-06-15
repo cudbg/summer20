@@ -38,7 +38,12 @@ For each meeting, every team will prepare a short presentation (max 5 slides) to
 * Demos, screenshots, storyboards are great!
 
 
-### Initial Schedule
+### Schedule <a name='schedule'/>
+
+The section meeting agendas can be found here:
+
+* [Khameleon Agendas](./lecnotes/section_kha.pptx)
+* [Precision Interface Agendas](./lecnotes/section_pi.pptx)
 
 Week 1
 
